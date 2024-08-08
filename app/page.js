@@ -232,6 +232,7 @@ export default function Home() {
 }
 
 //here is my original version of my code 
+/**
 'use client';
 import Image from 'next/image';
 import { useState, useEffect } from 'react';
@@ -414,8 +415,7 @@ export default function Home() {
   );
 }
 
-/**
- * 'use client';
+'use client';
 import Image from 'next/image';
 import { useState, useEffect } from 'react';
 import { firestore } from '@/firebase';
@@ -597,6 +597,6 @@ export default function Home() {
   );
 }
 
- */
+ **/
 
 

@@ -231,8 +231,9 @@ export default function Home() {
   );
 }
 
+
 //here is my original version of my code 
-/**
+/** 
 'use client';
 import Image from 'next/image';
 import { useState, useEffect } from 'react';
@@ -415,6 +416,7 @@ export default function Home() {
   );
 }
 
+//older version
 'use client';
 import Image from 'next/image';
 import { useState, useEffect } from 'react';

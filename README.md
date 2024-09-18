@@ -8,9 +8,6 @@ Using **Next.js**, **React**, and **Firebase**, it allows users to manage their 
 - **Firebase**: A platform for building web and mobile applications, used here for backend data management.
 - **Vercel**: The platform used for deploying the app.
 
-## Live Demo
-You can check out the live application here: https://inventory-management-tawny-two.vercel.app/
-
 ## Features
 - Add new items to the inventory.
 - Remove items from the inventory.
